@@ -12,7 +12,7 @@
     "react-tsparticles": "^2.0.6",
     "tsparticles": "^2.0.6",
     "tsparticles-slim": "^2.0.6",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
